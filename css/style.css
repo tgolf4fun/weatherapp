@@ -1,0 +1,41 @@
+
+
+
+
+
+body {
+    align: center;
+    background: rgba(116, 109, 254, .8);
+    }
+
+.hot {
+  background: url(../img/hot.jpg) no-repeat center top;
+  background-size: cover;
+}
+
+.cold {
+  background: url(../img/cold.jpg) no-repeat center top;
+  background-size: cover;
+}
+
+.nice {
+  background: url(../img/nice.jpg) no-repeat center top;
+  background-size: cover;;
+}
+#convert {
+    font-size: 38px;
+    margin: 30px;
+    padding: 50px;
+    color: yellow;
+    }
+
+#start {
+    font-size: 38px;
+    margin: 30px;
+    padding: 50px;
+    color: yellow;
+    }
+
+form{
+    padding: 50px;
+    }
